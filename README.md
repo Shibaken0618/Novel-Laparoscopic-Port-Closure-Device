@@ -11,3 +11,6 @@ This contains the STL Files of the novel Laparoscopic port closure device, desig
 ## Needle tracks for accurate needle penetration
 ![Untitled_video_-_Made_with_Clipchamp_AdobeExpress](https://github.com/user-attachments/assets/ea80727a-e728-4f62-89b1-a837cf0237ce)
 
+## How it works:
+https://github.com/user-attachments/assets/e783ac2f-7901-4c22-b380-1baaa392924d
+
